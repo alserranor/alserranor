@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Alberto 👋
 
-<!--
-**alserranor/alserranor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise AI & sovereign cloud architect at Thales, based in Paris.
 
-Here are some ideas to get you started:
+- Deploying LLMs, AI copilots and RAG pipelines on-premise and in sovereign cloud for ~10,000 engineers
+- Technical partner to Google Cloud through S3NS (Thales × Google Cloud)
+- Export Control-compliant interconnection across 9 countries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** Python · C/C++ · JavaScript · SQL · Google Cloud (GKE, Compute Engine) · LLMs · RAG
+
+The projects pinned below come from my machine learning and data science training (MIT, Udacity).
+Currently building an AI agent on Google Cloud: coming soon.
+
+📫 [LinkedIn](https://linkedin.com/in/albertoserranoreigosa)
