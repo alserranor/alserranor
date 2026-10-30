@@ -1,6 +1,6 @@
 ### Hi, I'm Alberto 👋
 
-Enterprise AI & sovereign cloud architect at Thales, based in Paris.
+Engineering lead for enterprise AI and sovereign cloud at Thales, based in Paris.
 
 - Deploying LLMs, AI copilots and RAG pipelines on-premise and in sovereign cloud for ~10,000 engineers
 - Technical partner to Google Cloud through S3NS (Thales × Google Cloud)
